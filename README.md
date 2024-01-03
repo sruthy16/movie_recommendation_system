@@ -12,5 +12,6 @@ Initiating the process involves constructing a matrix factorization-based model 
 2. Generate handcrafted features.
 3. Implement the final model.
 
-![image](https://github.com/sruthy16/movie_recommendation_system/assets/66853359/c6f52d83-b515-419f-bc66-c90b84ed4b02)
+![image](https://github.com/sruthy16/movie_recommendation_system/assets/66853359/b36f8d4d-d4f7-4271-9bed-a53ec104c44f)
+
 
