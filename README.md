@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# 🎥🍿 Movie Recommendation System
 
 To provide personalized movie recommendations, this system aims to predict user ratings for films they haven't viewed. By leveraging historical data on movies and user ratings, we can forecast future ratings and index movies for suggestions. It's crucial to address real-world challenges like the "cold start problem," where new users or movies lacking historical data may pose obstacles in our prediction model.
 
